@@ -1,1 +1,1 @@
-This is a MERN Based expense tracker website to track expenses and budgets and also categorizing them into different categories.
+This is a MERN Based expense tracker website to track expenses and budgets and also categorizing them into different categories.It categorizes expense and calculates the the total spent and revenue for a particular month.
